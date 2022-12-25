@@ -1,3 +1,4 @@
+# -*- Coding : utf-8 -*-
 
 import argparse
 import os
@@ -7,7 +8,6 @@ import vosk
 import sys
 
 import json
-
 import wavio
 
 from interpreter import Interpreter

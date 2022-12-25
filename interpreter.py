@@ -1,5 +1,6 @@
-import shutil
+# -*- Coding : utf-8 -*-
 
+import shutil
 import pyttsx3
 import datetime
 import webbrowser
